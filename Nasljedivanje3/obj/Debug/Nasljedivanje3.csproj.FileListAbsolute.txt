@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\obj\Debug\Nasljedivanje3.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\obj\Debug\Nasljedivanje3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\obj\Debug\Nasljedivanje3.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\bin\Debug\Nasljedivanje3.exe.config
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\bin\Debug\Nasljedivanje3.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\bin\Debug\Nasljedivanje3.pdb
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\obj\Debug\Nasljedivanje3.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\Nasljedivanje3\obj\Debug\Nasljedivanje3.pdb
